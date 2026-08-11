@@ -69,6 +69,8 @@ java -cp target/classes com.loginapp.Application
 
 ### Demo credentials
 
+> Local demo only — not real accounts.
+
 | Username   | Password          |
 |------------|-------------------|
 | `adam`     | `secret_adam`     |
@@ -91,4 +93,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE).
 
 ## Author
 
-**[Nikkilodeonee](https://github.com/Nikkilodeonee)**
+**Roman Sushkin** — [GitHub](https://github.com/Nikkilodeonee)
